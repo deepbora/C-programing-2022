@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "19_gloable_func_varibel.h": "c",
+        "myfile.h": "c",
+        "stdio.h": "c",
+        "stddef.h": "c"
+    }
+}
